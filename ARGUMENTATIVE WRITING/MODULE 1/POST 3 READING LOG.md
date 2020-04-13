@@ -1,4 +1,4 @@
-#Rhetorical Precis Assignment
+## Rhetorical Precis Assignment
 
   *In a single coherent sentence give the following:*
     `- name of the author, title of the work, date in parenthesis`

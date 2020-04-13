@@ -1,4 +1,4 @@
-#POST 4 READING LOG
+## POST 4 READING LOG
 
   __Reading Theme 4__
     *Rhetorical statement*

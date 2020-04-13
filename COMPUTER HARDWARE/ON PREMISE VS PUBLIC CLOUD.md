@@ -1,4 +1,4 @@
-#ON PREMISE VS PUBLIC CLOUD
+## ON PREMISE VS PUBLIC CLOUD
 
 __Section 1__
   *Deliverables*
