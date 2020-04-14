@@ -16,6 +16,27 @@
 
     `Quality of source- peer-reviewed journal articles are ideal (example: Journal of Marketing). Well-known periodicals/websites such as Ad Age, Harvard Business Review, and NPR are acceptable- you won't lose points for these. Sources that are of questionable or difficult-to-verify authority should not be used and may result in a deduction of points. If you aren't sure, send me an email and ask if it's a god source.`
 
+  *Assignment*
+
+    To: [Corey Murphy]
+    From: [Ethan Dunzer]
+    Subject: See how State Farm and Allstat are marketing refunds during pandemic in loyalty play. (PROMOTION)
+    Date: 4/14/20
+
+    This Ad age article goes through the new trend for insureance agentcies to offer special discouts during times of crisis.
+
+    Adrianne Pasquarelli the authors enlitens the reader that insurance agencies are no longer just this off shore business that has little to no connection to there customer besisides there billable issues. Instead Pasquarelli points out in mulitple examples that these businesses seem to be implementing a new type of marking and promtoional stragety that tries to connect with the consumer and limit the distance between them.
+
+    State Farm and Allstate two of the bigger players in the business have been releasing ads that describe adjusted prices and discounts for all there customers. By issing these refunds and adjusted prices its seems that businesses arent completly thinking about the customer. Instead they could be thinking ahead and avoiding backlash when regulatory mandates are put in place.
+
+    This new promtoional strategy not only wants to change the idea of insurance companies and there customers but also who is making the descions. Many of the commericals show the businesses CEO's or spokes persons in a home setting, furthering this "we are just like you" idea.
+
+    My Opinion: Covid-19 is the reasoning for this but it seems that other oppurtunities will open up from this example. Possible changes in prices may result from other sircumstances, such as large scale natural disasters in cities.
+
+    This new idea of connecting with customers has really started to take hold an I could definetly see businesses that are negatively viewed by the public taking losses in income just to change there image in the public eye.
+
+    Source: Pasquarelli, Adrianne. “See How State Farm and Allstate Are Marketing Refunds during Pandemic in Loyalty Play.” Ad Age, 10 Apr. 2020.
+
   *Sample marketing update 1*
 
     To: [Instructor's name]
