@@ -4,6 +4,3 @@ phone = "My phone number is 503-318-0942.";
 major = "Im studing Information Technology.";
 
 print(name,'\n', address,'\n', phone,'\n', major);
-
-print("test")
-print("test2")
