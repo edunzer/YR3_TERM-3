@@ -12,4 +12,8 @@
 
   __ASSIGNMENT:__
 
-    
+    *Sanjuán, Pilar. “Affect Balance as Mediating Variable Between Effective Psychological Functioning and Satisfaction with Life.” Journal of Happiness Studies, vol. 12, no. 3, 2010, pp. 373–384., doi:10.1007/s10902-010-9199-5.*
+
+    *Link: https://web-b-ebscohost-com.libproxy.oit.edu/ehost/detail/detail?vid=2&sid=81cad4ff-00af-43d0-84d6-3e10d97f0e60%40pdc-v-sessmgr04&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=60018425&db=a9h*
+
+    *Summary: Overall I think this was a very influential source for my topic 'Why focus on happiness when goals are more influential'. The article gives sound evidence about 'well-being' and what causes that well-being. There is Psychological background about well-being along with a study that included over 100 participants. The author Pilar Sanjuan is a research professor that focuses on emotion regulation.*
