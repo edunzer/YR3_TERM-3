@@ -60,7 +60,7 @@ def loop(user_input):
         print('_'*75)
 
         item_input = str(item_input).lower()
-        cost_input = int(cost_input)
+        cost_input = float(cost_input)
 
         #chart(stored)
         item_add(item_input, cost_input)
@@ -88,8 +88,8 @@ def budget(budget_store):
 
     #  ---------------------- INTEGER CHECK -----------------------
     try:
-        val = int(budget_input)
-        budget_store.append(int(budget_input))
+        val = float(budget_input)
+        budget_store.append(float(budget_input))
 
         print('_'*75)
         user_input = input("Do you want to continue entering budget items? Enter yes or no: ").lower()
