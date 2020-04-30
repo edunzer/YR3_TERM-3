@@ -2,12 +2,14 @@
 
 import sys
 import time
+import random
 
 stored = {}
 total_list = [0]
 budget_store = [0]
 
-def updt(total, progress): # -------------------- PROGRESS BAR CODE ------------------------
+# -------------------- PROGRESS BAR CODE ------------------------
+def updt(total, progress):
 
     barLength, status = 20, ""
     progress = float(progress) / float(total)
@@ -20,18 +22,23 @@ def updt(total, progress): # -------------------- PROGRESS BAR CODE ------------
     sys.stdout.write(text)
     sys.stdout.flush()
 
-runs = 50 # -------------------- TIME SELECT ---------------------------
+random_num = random.randint(10,60)
+runs = random_num # -------------------- TIME SELECT ---------------------------
 
-def chart(stored): # -------------------- CHART ------------------------
+# -------------------- CHART ------------------------
+def chart(stored):
     print('ITEM \t\t COST')
     print('-'*25)
     for item in stored:
         print(item, '\t\t',stored[item])
 
-def item_add(item_input, cost_input): # -------------------- ITEM ADD ------------------------
+# -------------------- ITEM ADD ------------------------
+def item_add(item_input, cost_input):
 
     if item_input.isalpha() == True and cost_input >= 0:
         stored[item_input] = cost_input
+
+        chart(stored)
 
         print('_'*75)
         user_input = input("Do you want to continue entering budget items? Enter yes or no: ").lower()
@@ -44,7 +51,8 @@ def item_add(item_input, cost_input): # -------------------- ITEM ADD ----------
     else:
         print("ERROR1")
 
-def loop(user_input): # -------------------- CONTINUE ENTER CHECK ------------------------
+# -------------------- CONTINUE ENTER CHECK ------------------------
+def loop(user_input):
 
     while user_input == 'yes' or user_input == 'y':
         print('_'*75)
@@ -54,7 +62,7 @@ def loop(user_input): # -------------------- CONTINUE ENTER CHECK --------------
         item_input = str(item_input).lower()
         cost_input = int(cost_input)
 
-        chart(stored)
+        #chart(stored)
         item_add(item_input, cost_input)
 
     if user_input == 'no' or user_input == 'n':
@@ -71,13 +79,15 @@ def loop(user_input): # -------------------- CONTINUE ENTER CHECK --------------
         chart(stored)
         sys.exit()
 
-def budget(budget_store): # -------------------- BUDGET ENTER ------------------------
+# -------------------- BUDGET ENTER ------------------------
+def budget(budget_store):
     print('_'*75)
     budget_input = input("Please enter your budget for this month: ")
     print("You entered: ","$",budget_input)
     print('_'*75)
 
-    try: #  ---------------------- INTEGER CHECK -----------------------
+    #  ---------------------- INTEGER CHECK -----------------------
+    try:
         val = int(budget_input)
         budget_store.append(int(budget_input))
 
@@ -90,7 +100,8 @@ def budget(budget_store): # -------------------- BUDGET ENTER ------------------
         print("You did no enter an integer. Program ENDED")
         sys.exit()
 
-def budget_check(): # -------------------- BUDGET CHECK ------------------------
+# -------------------- BUDGET CHECK ------------------------
+def budget_check():
     for val in stored.values():
         total_list.append(int(val))
     for val in stored.values():
@@ -101,8 +112,9 @@ def budget_check(): # -------------------- BUDGET CHECK ------------------------
         print("Calculating your total")
         print('-'*25)
 
+        #  ---------------------- PROGRESS BAR -----------------------
         for run_num in range(runs):
-            time.sleep(.1) #  ---------------------- PROGRESS BAR -----------------------
+            time.sleep(.1)
             updt(runs, run_num + 1)
 
         print('-'*25)
