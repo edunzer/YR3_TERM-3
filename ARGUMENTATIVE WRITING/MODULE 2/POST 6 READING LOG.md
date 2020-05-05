@@ -21,7 +21,7 @@
     *Final Sentence*
       `Emily Esfahani Smith, the author of 'The Power of Meaning' talks on a TED talk stage in April of 2017 about how there is more to life than being happy, and that the pursuit of happiness almost always ends in the opposite. Smith suggests in her talk that happiness is the unachievable fantasy that we often aim for, when in reality it is better to focus on the meaning of your life. She supports her claims by sharing her own personal experience with her early life of structure and religion and her later life where there was nothing that seemed to drive her toward a meaning in life. Smith talk aims to show the listener that if you set your eyes on success and encounter failure you will constantly feel like you haven’t achieved happiness, in order to have happiness in your life you need to let the moments come and go and always have meaning to drive you. Smith talks to the audience in a personal manner, almost like a parent telling a story to their child about how to overcome problems in life, while still passing on important life knowledge. `
 
-  __Reading Theme 8 ()__ TODO 6: Finish statement for reading theme 8.
+  __Reading Theme 8 ()__
     *(author), (author background),talks about there paper (title), in the (editorial)(date), which (claims) that (explanation)*
       `Will Starr, a writer for The New Yorker, discusses happiness in his paper 'A Better Kind of Happiness' published on July 7th 2016 where he proposes the question is there biological evidence that can prove that happiness is real?`
 
@@ -42,7 +42,7 @@
     *Final Sentence*
       `Will Starr, a writer for The New Yorker, discusses happiness in his paper 'A Better Kind of Happiness' published on July 7th, 2016 where he proposes the question is there biological evidence that can prove that happiness is real? Starr suggests in his article that due to recent evidence suggesting that loneliness has an effect on biological health the same can be said for happiness, which would give more evidence on what happiness represents to humans. He supports his claims by comparing multiple studies done by psychology and medical professors where blood samples and questionnaires were used to find biological evidence that correlates to the levels of happiness in subjects. Starr’s article aims to point out the many unknowns that we have about happiness but also the many possible factors that cause it, this is done in order to encourage the reader to think more about how there happiness levels can effect there life in more ways than one would think. Starr writes in a very formal manner that aims to educate the reader about many topics including past knowledge of happiness and purpose to life, along with what his currently happening in the world of psychological studies.`
 
-  __Reading Theme 8 ()__ TODO 7: Finish statement for reading theme 9.
+  __Reading Theme 8 ()__ 
     *(author), (author background),talks about there paper (title), in the (editorial)(date), which (claims) that (explanation)*
       `Avram Alpert, a writer for The New York Times, discusses how the desire to be great can be an obstacle to your potential in his article 'The Good-Enough Life' published on Febuary 20th 2019.`
 
