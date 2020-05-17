@@ -121,6 +121,8 @@ def budget_check():
         print("Total: ",'\t', total)
         print('-'*25)
         break
+        #  ---------------------- ----------- -----------------------
+
 
     budget_store.remove(int(0))
 
