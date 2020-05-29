@@ -32,6 +32,6 @@
 
     *Templates for Making Concessions While Still Standing Your Ground:*
 
-      `Although I gratn that happiness is a metirc by which somoene can guage there life, I still maintain that meaning allows for better descions and achievement of that good life.`
+      `Although I grant that happiness is a metirc by which somoene can guage there life, I still maintain that meaning allows for better descions and achievement of that good life.`
 
       `I think this approach will allow me to connect more with the readers that are hesitent with giving up happiness. Instead it suggests that instead of giving it up you just use it secondarly and therefore will make it easier to connect with those readers.`

@@ -1,22 +1,22 @@
 ## WEEK 8 ETHAN DUNZER
 
-  __8.1__
+  __8.1__ (Initials)
 
     *Write a program that gets a string containing a person’s first, middle, and last names, and displays their first, middle, and last initials. For example, if the user enters John William Smith, the program should display J. W. S.*
 
-  __8.3__
+  __8.3__ (Date Printer)
 
     *Write a program that reads a string from the user containing a date in the form mm/dd/yyyy. It should print the date in the format March 12, 2018.*
 
-  __8.9__
+  __8.9__ (Sentence Capitalizer)
 
     *Write a program with a function that accepts a string as an argument and returns a copy of the string with the first character of each sentence capitalized. For instance, if the argument is “hello. my name is Joe. what is your name?” the function should return the string “Hello. My name is Joe. What is your name?” The program should let the user enter a string and then pass it to the function. The modified string should be displayed.*
 
-  __9.2__
+  __9.2__ (Capitol Quiz)
 
     *Write a program that creates a dictionary containing the U.S. states as keys, and their capitals as values. (Use the Internet to get a list of the states and their capitals.) The program should then randomly quiz the user by displaying the name of a state and asking the user to enter that state’s capital. The program should keep a count of the number of correct and incorrect responses. (As an alternative to the U.S. states, the program can use the names of countries and their capitals.)*
 
-  __9.3__
+  __9.3__ (File Encryption and Decryption)
 
     *Write a program that uses a dictionary to assign “codes” to each letter of the alphabet. For example:*
 
@@ -28,11 +28,11 @@
 
     *Write a second program that opens an encrypted file and displays its decrypted contents on the screen.*
 
-  __9.5__
+  __9.5__ (Word Frequency)
 
     *Write a program that reads the contents of a text file. The program should create a dictio-nary in which the keys are the individual words found in the file and the values are the number of times each word appears. For example, if the word “the” appears 128 times, the dictionary would contain an element with 'the' as the key and 128 as the value. The program should either display the frequency of each word or create a second file containing a list of each word and its frequency.*
 
-  __9.9__
+  __9.9__ (Blackjack Simulation)
 
     *Previously in this chapter you saw the card_dealer.py program that simulates cards being dealt from a deck. Enhance the program so it simulates a simplified version of the game of Blackjack between two virtual players. The cards have the following values:*
 
