@@ -1,6 +1,6 @@
 ## MIS285SP_ETHANDUNZER_WEEK1
 
-__Week 1 ansers:__
+__Week 1 answers:__
 
   *3.*
     `11 -> 1011`
